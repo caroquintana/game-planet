@@ -26,4 +26,14 @@ input.boxtext{
 
 label{
 	font-weight: 500;
+	margin-top: 7px;
 }
+.boxform{
+	margin-right: 6px;
+}
+
+.titleform{
+	margin-top: 44px;
+	margin-bottom: 25px;
+}
+
